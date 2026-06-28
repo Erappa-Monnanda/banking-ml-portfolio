@@ -29,8 +29,34 @@ Features:
 
 File: fraud_detector.py
 
+### 3. Fraud Analysis Notebook
+End-to-end data preparation and fraud analysis using Pandas and NumPy.
+
+Features:
+- CSV data loading and exploration
+- Missing value detection and treatment
+  - Mean imputation for numerical columns
+  - Default value filling for categorical columns
+  - Row dropping for missing key identifiers
+- Risk score classification (high/medium/low)
+- Country-level transaction analysis
+- Cleaned data export to CSV
+
+File: fraud_analysis.ipynb
+
 ## Skills
 - Python
-- Data Analysis
+- Pandas — data loading, cleaning, aggregation
+- NumPy — conditional column creation
 - Fraud Detection Logic
+- Data Preparation for ML
+- Jupyter Notebook
 - ML (in progress)
+
+## About
+Finance professional transitioning into AI/ML engineering.
+5+ years of banking and risk management experience at Wells Fargo
+combined with hands-on ML engineering skills.
+
+Target roles: AI/ML Engineer, Data Scientist, 
+GenAI Developer in Financial Services.
