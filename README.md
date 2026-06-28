@@ -17,6 +17,18 @@ Features:
 
 File: transaction_analyzer.py
 
+### 2. Fraud Detector
+Pandas-based fraud detection module for banking transactions.
+
+Features:
+- High value transaction flagging (amount > 600)
+- Suspicious transaction detection (amount > 5000)
+- Transaction aggregation by country
+- Average amount analysis by transaction type
+- Risk-sorted transaction reporting
+
+File: fraud_detector.py
+
 ## Skills
 - Python
 - Data Analysis
