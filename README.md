@@ -44,6 +44,20 @@ Features:
 
 File: fraud_analysis.ipynb
 
+### 4. Fraud Detection ML Model
+Logistic Regression model for fraud detection 
+with class imbalance handling.
+
+Features:
+- Synthetic banking transaction data generation
+- Feature encoding for ML compatibility
+- Train/test split with stratification
+- Model evaluation — precision, recall, F1
+- Class weight balancing for imbalanced data
+- Precision vs recall tradeoff analysis
+
+File: fraud_model.ipynb
+
 ## Skills
 - Python
 - Pandas — data loading, cleaning, aggregation
