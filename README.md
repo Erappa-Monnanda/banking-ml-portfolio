@@ -58,6 +58,22 @@ Features:
 
 File: fraud_model.ipynb
 
+### 5. Credit Card Fraud Detection — Capstone Project
+End-to-end ML pipeline on real Kaggle dataset (284,807 transactions).
+
+Features:
+- Exploratory Data Analysis with 4 visualization sets
+- Class imbalance handling: baseline vs class weights vs SMOTE
+- Model comparison: Logistic Regression vs Random Forest (6 models)
+- Threshold tuning with Precision-Recall curves
+- PR-AUC evaluation (Random Forest: 0.861)
+- Production model persistence with deployment notes
+
+Results: Random Forest achieved Precision=0.941, Recall=0.816, 
+F1=0.874, PR-AUC=0.861 on 56,962 held-out test transactions.
+
+Files: fraud_analysis_capstone.ipynb, fraud_model_final.pkl
+
 ## Skills
 - Python
 - Pandas — data loading, cleaning, aggregation
