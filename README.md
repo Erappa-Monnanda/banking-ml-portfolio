@@ -75,17 +75,21 @@ F1=0.874, PR-AUC=0.861 on 56,962 held-out test transactions.
 Files: fraud_analysis_capstone.ipynb, fraud_model_final.pkl
 
 ## Skills
-- Python
-- Pandas — data loading, cleaning, aggregation
-- NumPy — conditional column creation
-- Fraud Detection Logic
-- Data Preparation for ML
-- Jupyter Notebook
-- ML (in progress)
+- Python — functions, OOP, list comprehensions, error handling
+- Pandas & NumPy — data loading, cleaning, feature engineering
+- Scikit-learn — Logistic Regression, Decision Trees, Random Forest
+- Imbalanced-learn — SMOTE for class imbalance
+- Matplotlib & Seaborn — EDA visualizations, PR curves
+- ML Pipeline — preprocessing, train/test split, cross-validation
+- Model Evaluation — Precision, Recall, F1, PR-AUC, threshold tuning
+- Jupyter Notebook — professional notebook structure
+- GitHub — version control, portfolio management
+- Domain: Banking, Fraud Detection, Risk Analytics
 
 ## About
 Finance professional transitioning into AI/ML engineering.
-5+ years of banking and risk management experience at Wells Fargo
+5+ years of experience in banking operations, trade desk, 
+and governance & oversight roles in financial services, 
 combined with hands-on ML engineering skills.
 
 Target roles: AI/ML Engineer, Data Scientist, 
