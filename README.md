@@ -74,6 +74,18 @@ F1=0.874, PR-AUC=0.861 on 56,962 held-out test transactions.
 
 Files: fraud_analysis_capstone.ipynb, fraud_model_final.pkl
 
+### 6. LLM Fraud Alert Summarizer
+First LLM application using Groq API and Meta's LLaMA 3.1.
+
+Features:
+- Groq API integration with environment variable security
+- Temperature experimentation (deterministic vs creative outputs)
+- System prompt engineering for consistent output structure
+- Fraud investigation summary generation
+- Tested on both suspicious and legitimate transactions
+
+File: llm_fundamentals.ipynb
+
 ## Skills
 - Python — functions, OOP, list comprehensions, error handling
 - Pandas & NumPy — data loading, cleaning, feature engineering
