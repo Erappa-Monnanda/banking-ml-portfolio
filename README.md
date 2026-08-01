@@ -86,6 +86,21 @@ Features:
 
 File: llm_fundamentals.ipynb
 
+### 7. LangChain Fraud Investigation Pipeline
+Multi-step LangChain pipeline for automated fraud investigation.
+
+Features:
+- Prompt Templates with variable substitution
+- LCEL pipe operator for clean chain composition
+- JSON structured output parsing
+- Sequential 3-step pipeline:
+  Step 1: Risk classification
+  Step 2: Investigation report generation  
+  Step 3: Action plan creation
+- Each step's output feeds the next
+
+File: langchain.ipynb
+
 ## Skills
 - Python — functions, OOP, list comprehensions, error handling
 - Pandas & NumPy — data loading, cleaning, feature engineering
