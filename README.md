@@ -101,6 +101,19 @@ Features:
 
 File: langchain.ipynb
 
+
+### 8. Fraud Investigation Chatbot
+Multi-turn LangChain chatbot with hybrid memory management.
+
+Features:
+- Buffer and window memory comparison
+- Auto-summarization every 3 turns
+- Hybrid memory: window + running case summary
+- OOP class structure for production-style code
+- 5-turn investigation session demonstrated
+
+File: langchain.ipynb
+
 ## Skills
 - Python — functions, OOP, list comprehensions, error handling
 - Pandas & NumPy — data loading, cleaning, feature engineering
